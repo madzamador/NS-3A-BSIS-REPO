@@ -178,7 +178,7 @@ section {
   text-align: center;
 }
 
-.section__text_p {
+.section__text p {
   font-weight: 600;
 }
 
@@ -200,6 +200,7 @@ section {
   display: flex;
   justify-content: center;
   margin-top: 1rem;
+  gap: 1rem;
 }
 
 /*Icon*/
@@ -237,7 +238,7 @@ section {
 
 .btn-color-1,
 .btn-color-2:hover {
-  background: rgb(0, 0, 0);
+  background: rgb(53, 53, 53);
   color: white;
 }
 
