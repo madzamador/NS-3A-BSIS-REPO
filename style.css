@@ -214,7 +214,7 @@ section {
 
 .btn-container {
   display: flex;
-  justify-self: center;
+  justify-content: center;
   gap: 1rem;
 }
 
