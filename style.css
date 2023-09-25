@@ -1,9 +1,11 @@
 /* Whole HTML Document */
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 
 * {
   margin: 0;
   padding: 0;
+  /* border: 1px solid red; */
 }
 
 body {
@@ -347,7 +349,7 @@ article {
 }
 
 article .icon {
-  position: relative;
+  position: default;
 }
 
 /* Projects Section */
@@ -419,8 +421,8 @@ article .icon {
 /* Footer */
 
 footer {
-  height: 20vh;
-  margin: 0 1 rem;
+  height: 26vh;
+  margin: 0 1rem;
 }
 
 footer p {
